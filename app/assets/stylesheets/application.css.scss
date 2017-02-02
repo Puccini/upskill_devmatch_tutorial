@@ -68,3 +68,8 @@ background: linear-gradient(to left, #BE93C5 , #7BC6CC); /* W3C, IE 10+/ Edge, F
     padding-top: 50px;
     padding-bottom: 100px;
 }
+
+// Removes unecessary logout message
+.alert-notice {
+    display: none;
+}
